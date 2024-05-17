@@ -4,9 +4,9 @@
 2. basic configuration
 3. ssh key
 
-- ssh key generate
-- ssh public key add to github
+   - ssh key generate
+   - ssh public key add to github
 
-4. test
+4. git workflow
 
 computer - github
