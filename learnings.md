@@ -16,3 +16,5 @@ feature/skill2 branch -> index.html -> Java
 main branch -> index.html -> Python
 
 6. how to resolve merge conflict
+
+7. edit psd addes
