@@ -1,0 +1,2 @@
+
+1. Edit from gitHub to check (fetch,marge) and pull 
